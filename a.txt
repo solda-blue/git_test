@@ -1,1 +1,6 @@
 aaaaaag
+
+1. 깃허브에서 파일 다운로드 => code => download ZIP
+2. 깃허브에서 프로젝트 폴더 동일 유지
+
+학원 --push--> github --clone--> 집
